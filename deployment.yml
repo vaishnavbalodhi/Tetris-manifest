@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: vaishnav1/tetris:latest
+        image: vaishnav1/tetrisv2:latest
         ports:
         - containerPort: 3000   
 
